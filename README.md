@@ -178,7 +178,7 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/GovindSingh9447/" target="_blank">
+  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
