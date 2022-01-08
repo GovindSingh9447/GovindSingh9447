@@ -142,15 +142,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 92 Contributions in the Year 2021
+> 🏆 92 Contributions in the Year 2022
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 190 Public Repositories 
+> 📜 34 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -164,7 +164,7 @@
 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
 
 
