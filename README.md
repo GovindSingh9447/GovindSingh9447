@@ -163,8 +163,23 @@
 ```
 
 
+<br> <br>
 
- Last Updated on 02/01/2022
+## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| VahanaCloud Developer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
+| Open source mentor | [GSsOc](https://gssoc.girlscript.tech/) | Mar 2022 - Present |
+| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
+| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
+| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
+
+
+
+
+
+ Last Updated on 10/03/2022
 <!--END_SECTION:waka-->
 
 
