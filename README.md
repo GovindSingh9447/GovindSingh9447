@@ -17,13 +17,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My StartUp, Github Project
+- 🔭 I’m currently working on GRANTHAGRA-'Android Application for Students'
 
-- 🌱 I’m currently learning Android, Flutter, Dart 
+- 🌱 I’m currently learning Cloud 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about Android, Java, UI/UX Designs, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about DevOps, AWS, GCP, Android, Java, UI/UX Designs, Freelancing Opportunites, Open Source 
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 
@@ -53,9 +53,9 @@
 
 <p align="center">
   <a>
-    <img height="148" width="173" src="https://github.com/GovindSingh9447/JayantGoel001/blob/master/PNG/left.png">
+    <img height="146" width="171" src="https://github.com/GovindSingh9447/JayantGoel001/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GovindSingh9447&theme=dark&hide_border=true"/>
-    <img height="148" width="173" src="https://github.com/GovindSingh9447/JayantGoel001/blob/master/PNG/right.png">
+    <img height="146" width="171" src="https://github.com/GovindSingh9447/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
