@@ -144,9 +144,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif" >
-</a>
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@GovindSingh9447/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 
 <br>
 <br>
