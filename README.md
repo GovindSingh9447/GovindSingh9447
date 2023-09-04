@@ -99,7 +99,10 @@
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
