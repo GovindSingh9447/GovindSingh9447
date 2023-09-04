@@ -152,19 +152,23 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-697670%20lines%20of%20code-blue)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
+
 
 **🐱 My Github Data** 
 
-> 🏆 290 Contributions in the Year 2022
+> 🏆 590 Contributions in the Year 2023
  > 
-> 📦 1.1 MB Used in Github's Storage 
+> 📦 9.1 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 82 Public Repositories 
  > 
-> 🔑 19 Private Repositories  
+> 🔑 124 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
