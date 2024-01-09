@@ -185,7 +185,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Associate Software Developer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
+| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
 | Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
 | Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
 | Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
