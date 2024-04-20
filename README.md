@@ -7,7 +7,9 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
+
 
 - 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
@@ -144,7 +146,6 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@GovindSingh9447/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 
 <br>
 <br>
@@ -195,7 +196,7 @@
 
 
 
- Last Updated on 05/09/2023
+ Last Updated on 20/04/2024
 <!--END_SECTION:waka-->
 
 
@@ -254,7 +255,7 @@
 -----
 **Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
 
-**Last Edited on**: 05/09/2023
+**Last Edited on**: 20/04/2024
 
 
 
