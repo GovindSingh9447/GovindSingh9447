@@ -186,7 +186,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Aug 2024 |
+| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Current |
 | Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
 | Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
 | Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
@@ -196,7 +196,7 @@
 
 
 
- Last Updated on 16/05/2024
+ Last Updated on 08/03/2025
 <!--END_SECTION:waka-->
 
 
@@ -255,7 +255,7 @@
 -----
 **Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
 
-**Last Edited on**: 20/04/2024
+**Last Edited on**: 08/03/2025
 
 
 
